@@ -1,0 +1,5 @@
+2025-07-05T13:49:54.198Z ERROR: Error on POST /rooms/booking: Unauthorized
+2025-07-05T14:54:46.745Z ERROR: Error on GET /rooms: Unauthorized
+2025-07-05T14:54:46.750Z ERROR: Error on GET /rooms: Unauthorized
+2025-07-05T14:55:03.336Z ERROR: Error on GET /rooms: Unauthorized
+2025-07-05T14:55:03.340Z ERROR: Error on GET /rooms: Unauthorized

@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Kuliah\\PVG\\backend\\logs\\.ce2c95c32553b0027d1e3df181f59df179ed3a38-audit.json",
+    "files": [
+        {
+            "date": 1751346115256,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-01.log",
+            "hash": "0384a06df1943263c29d5cc1baeeab083cb66ecc0224bd53427bdc814397cffc"
+        },
+        {
+            "date": 1751428874604,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-02.log",
+            "hash": "53b174c58cbc9d4a20bab3473990a17cdd3b1d1318ec292c53afcadf83be66c2"
+        },
+        {
+            "date": 1751509984282,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-03.log",
+            "hash": "441f6b20bcf479bd71990eca79cdc5dfec6755574b3a5aca68475b25a5c7e7c4"
+        },
+        {
+            "date": 1751592616593,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-04.log",
+            "hash": "d4db98e036040ec2d4c66904e6a837d6bc9a74c0be48f5bca63b3e83de7ff0e3"
+        },
+        {
+            "date": 1751717114048,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-05.log",
+            "hash": "1a81997abccee4f6c75adf7f4096ef1e90f13e54bc188ddafe293bc7ef6f6327"
+        },
+        {
+            "date": 1751766383731,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-06.log",
+            "hash": "2ae79485feef3dc820d944e8e823b224c3ec6814a2a4b9c39223d3454e1d93e4"
+        },
+        {
+            "date": 1751846193815,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-07.log",
+            "hash": "93995b232a308fcf375f8e514557c71ac38c96dea603f0defdc0edda1084aaa7"
+        },
+        {
+            "date": 1752040089623,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-09.log",
+            "hash": "8989a85e752ad0d42d69dc721bea85942ea1b88f0b8995cb7723c2dc18036fd2"
+        },
+        {
+            "date": 1752112152879,
+            "name": "D:\\Kuliah\\PVG\\backend\\logs\\error-2025-07-10.log",
+            "hash": "53bb105bbadfaf7de878e0a4f4d21e45ef3d80fad00671e5542240a9d772b60a"
+        }
+    ],
+    "hashType": "sha256"
+}

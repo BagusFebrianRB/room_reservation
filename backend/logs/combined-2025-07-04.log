@@ -1,0 +1,264 @@
+2025-07-04T02:01:15.743Z INFO: ::1 - - [04/Jul/2025:02:01:15 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:01:16.421Z INFO: ::1 - - [04/Jul/2025:02:01:16 +0000] "POST /auth/login HTTP/1.1" 200 334 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:19:21.767Z INFO: ::1 - - [04/Jul/2025:02:19:21 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:19:21.770Z INFO: ::1 - - [04/Jul/2025:02:19:21 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:19:21.883Z INFO: ::1 - - [04/Jul/2025:02:19:21 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:19:21.893Z INFO: ::1 - - [04/Jul/2025:02:19:21 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:47.969Z INFO: ::1 - - [04/Jul/2025:02:46:47 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:48.150Z INFO: ::1 - - [04/Jul/2025:02:46:48 +0000] "POST /auth/login HTTP/1.1" 400 28 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:53.642Z INFO: ::1 - - [04/Jul/2025:02:46:53 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:53.739Z INFO: ::1 - - [04/Jul/2025:02:46:53 +0000] "POST /auth/login HTTP/1.1" 200 334 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:55.912Z INFO: ::1 - - [04/Jul/2025:02:46:55 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:55.916Z INFO: ::1 - - [04/Jul/2025:02:46:55 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:55.927Z INFO: ::1 - - [04/Jul/2025:02:46:55 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:55.936Z INFO: ::1 - - [04/Jul/2025:02:46:55 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:57.421Z INFO: ::1 - - [04/Jul/2025:02:46:57 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:57.423Z INFO: ::1 - - [04/Jul/2025:02:46:57 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:57.433Z INFO: ::1 - - [04/Jul/2025:02:46:57 +0000] "GET /users HTTP/1.1" 200 1244 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:46:57.443Z INFO: ::1 - - [04/Jul/2025:02:46:57 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:16.547Z INFO: ::1 - - [04/Jul/2025:02:47:16 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:16.751Z INFO: ::1 - - [04/Jul/2025:02:47:16 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:23.579Z INFO: ::1 - - [04/Jul/2025:02:47:23 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:23.590Z INFO: ::1 - - [04/Jul/2025:02:47:23 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:27.368Z INFO: ::1 - - [04/Jul/2025:02:47:27 +0000] "POST /rooms/booking HTTP/1.1" 200 778 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:32.143Z INFO: ::1 - - [04/Jul/2025:02:47:32 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:32.153Z INFO: ::1 - - [04/Jul/2025:02:47:32 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:33.302Z INFO: ::1 - - [04/Jul/2025:02:47:33 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:33.522Z INFO: ::1 - - [04/Jul/2025:02:47:33 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:43.497Z INFO: ::1 - - [04/Jul/2025:02:47:43 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:47:43.508Z INFO: ::1 - - [04/Jul/2025:02:47:43 +0000] "POST /rooms/booking HTTP/1.1" 200 778 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:48:01.807Z INFO: ::1 - - [04/Jul/2025:02:48:01 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:48:01.890Z INFO: ::1 - - [04/Jul/2025:02:48:01 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:38.981Z INFO: ::1 - - [04/Jul/2025:02:49:38 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:39.062Z INFO: ::1 - - [04/Jul/2025:02:49:39 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:39.607Z INFO: ::1 - - [04/Jul/2025:02:49:39 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:39.788Z INFO: ::1 - - [04/Jul/2025:02:49:39 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:39.996Z INFO: ::1 - - [04/Jul/2025:02:49:39 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:40.218Z INFO: ::1 - - [04/Jul/2025:02:49:40 +0000] "POST /rooms/booking HTTP/1.1" 200 776 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:57.537Z INFO: ::1 - - [04/Jul/2025:02:49:57 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:57.667Z INFO: ::1 - - [04/Jul/2025:02:49:57 +0000] "POST /rooms/reservations HTTP/1.1" 201 239 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:59.432Z INFO: ::1 - - [04/Jul/2025:02:49:59 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:49:59.442Z INFO: ::1 - - [04/Jul/2025:02:49:59 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:12.523Z INFO: ::1 - - [04/Jul/2025:02:50:12 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:12.701Z INFO: ::1 - - [04/Jul/2025:02:50:12 +0000] "POST /auth/login HTTP/1.1" 200 376 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:14.102Z INFO: ::1 - - [04/Jul/2025:02:50:14 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:14.106Z INFO: ::1 - - [04/Jul/2025:02:50:14 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:14.135Z INFO: ::1 - - [04/Jul/2025:02:50:14 +0000] "GET /rooms/reservations HTTP/1.1" 200 1243 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:14.147Z INFO: ::1 - - [04/Jul/2025:02:50:14 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:19.694Z INFO: ::1 - - [04/Jul/2025:02:50:19 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:19.696Z INFO: ::1 - - [04/Jul/2025:02:50:19 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:19.709Z INFO: ::1 - - [04/Jul/2025:02:50:19 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:19.728Z INFO: ::1 - - [04/Jul/2025:02:50:19 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:20.567Z INFO: ::1 - - [04/Jul/2025:02:50:20 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:20.582Z INFO: ::1 - - [04/Jul/2025:02:50:20 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:21.407Z INFO: ::1 - - [04/Jul/2025:02:50:21 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:21.425Z INFO: ::1 - - [04/Jul/2025:02:50:21 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:22.507Z INFO: ::1 - - [04/Jul/2025:02:50:22 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:50:22.523Z INFO: ::1 - - [04/Jul/2025:02:50:22 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:11.821Z INFO: ::1 - - [04/Jul/2025:02:52:11 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:11.991Z INFO: ::1 - - [04/Jul/2025:02:52:11 +0000] "POST /auth/login HTTP/1.1" 200 334 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:13.418Z INFO: ::1 - - [04/Jul/2025:02:52:13 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:13.421Z INFO: ::1 - - [04/Jul/2025:02:52:13 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:13.429Z INFO: ::1 - - [04/Jul/2025:02:52:13 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:13.438Z INFO: ::1 - - [04/Jul/2025:02:52:13 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:24.630Z INFO: ::1 - - [04/Jul/2025:02:52:24 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:24.710Z INFO: ::1 - - [04/Jul/2025:02:52:24 +0000] "POST /rooms/booking HTTP/1.1" 200 777 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:31.610Z INFO: ::1 - - [04/Jul/2025:02:52:31 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:31.628Z INFO: ::1 - - [04/Jul/2025:02:52:31 +0000] "POST /rooms/reservations HTTP/1.1" 201 239 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:33.970Z INFO: ::1 - - [04/Jul/2025:02:52:33 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:52:33.980Z INFO: ::1 - - [04/Jul/2025:02:52:33 +0000] "POST /rooms/booking HTTP/1.1" 200 778 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:53:55.399Z INFO: ::1 - - [04/Jul/2025:02:53:55 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:53:55.404Z INFO: ::1 - - [04/Jul/2025:02:53:55 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:53:55.432Z INFO: ::1 - - [04/Jul/2025:02:53:55 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:53:55.444Z INFO: ::1 - - [04/Jul/2025:02:53:55 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:06.871Z INFO: ::1 - - [04/Jul/2025:02:54:06 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:07.174Z INFO: ::1 - - [04/Jul/2025:02:54:07 +0000] "POST /rooms/booking HTTP/1.1" 200 778 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:11.441Z INFO: ::1 - - [04/Jul/2025:02:54:11 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:11.472Z INFO: ::1 - - [04/Jul/2025:02:54:11 +0000] "POST /rooms/reservations HTTP/1.1" 201 239 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:12.745Z INFO: ::1 - - [04/Jul/2025:02:54:12 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:12.758Z INFO: ::1 - - [04/Jul/2025:02:54:12 +0000] "POST /rooms/booking HTTP/1.1" 200 779 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:40.980Z INFO: ::1 - - [04/Jul/2025:02:54:40 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:41.301Z INFO: ::1 - - [04/Jul/2025:02:54:41 +0000] "POST /auth/login HTTP/1.1" 200 376 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:46.502Z INFO: ::1 - - [04/Jul/2025:02:54:46 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:46.504Z INFO: ::1 - - [04/Jul/2025:02:54:46 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:46.522Z INFO: ::1 - - [04/Jul/2025:02:54:46 +0000] "GET /rooms/reservations HTTP/1.1" 200 1662 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T02:54:46.534Z INFO: ::1 - - [04/Jul/2025:02:54:46 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:04.838Z INFO: ::1 - - [04/Jul/2025:03:03:04 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:04.840Z INFO: ::1 - - [04/Jul/2025:03:03:04 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:04.933Z INFO: ::1 - - [04/Jul/2025:03:03:04 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:04.946Z INFO: ::1 - - [04/Jul/2025:03:03:04 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:16.252Z INFO: ::1 - - [04/Jul/2025:03:03:16 +0000] "OPTIONS /rooms/booking HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:03:16.337Z INFO: ::1 - - [04/Jul/2025:03:03:16 +0000] "POST /rooms/booking HTTP/1.1" 200 779 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:38:57.303Z INFO: ::1 - - [04/Jul/2025:03:38:57 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:38:57.306Z INFO: ::1 - - [04/Jul/2025:03:38:57 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:38:57.399Z INFO: ::1 - - [04/Jul/2025:03:38:57 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T03:38:57.410Z INFO: ::1 - - [04/Jul/2025:03:38:57 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:13:54.852Z ERROR: Error on GET /rooms/reservations: Unauthorized
+2025-07-04T04:13:54.854Z INFO: ::1 - - [04/Jul/2025:04:13:54 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:13:54.856Z ERROR: Error on GET /rooms/reservations: Unauthorized
+2025-07-04T04:13:54.859Z INFO: ::1 - - [04/Jul/2025:04:13:54 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:05.001Z INFO: ::1 - - [04/Jul/2025:04:14:05 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:05.175Z INFO: ::1 - - [04/Jul/2025:04:14:05 +0000] "POST /auth/login HTTP/1.1" 200 334 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:06.888Z INFO: ::1 - - [04/Jul/2025:04:14:06 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:06.890Z INFO: ::1 - - [04/Jul/2025:04:14:06 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:06.903Z INFO: ::1 - - [04/Jul/2025:04:14:06 +0000] "GET /rooms/reservations HTTP/1.1" 200 4138 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:14:06.914Z INFO: ::1 - - [04/Jul/2025:04:14:06 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:16.870Z INFO: ::1 - - [04/Jul/2025:04:17:16 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:16.875Z INFO: ::1 - - [04/Jul/2025:04:17:16 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:16.899Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:17:16.901Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:17:16.905Z INFO: ::1 - - [04/Jul/2025:04:17:16 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:16.913Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:17:16.914Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:17:16.916Z INFO: ::1 - - [04/Jul/2025:04:17:16 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:26.695Z INFO: ::1 - - [04/Jul/2025:04:17:26 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:26.967Z INFO: ::1 - - [04/Jul/2025:04:17:26 +0000] "POST /auth/login HTTP/1.1" 200 334 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:29.793Z INFO: ::1 - - [04/Jul/2025:04:17:29 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:29.796Z INFO: ::1 - - [04/Jul/2025:04:17:29 +0000] "OPTIONS /rooms HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:29.808Z INFO: ::1 - - [04/Jul/2025:04:17:29 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:29.818Z INFO: ::1 - - [04/Jul/2025:04:17:29 +0000] "GET /rooms HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:31.006Z INFO: ::1 - - [04/Jul/2025:04:17:31 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:31.009Z INFO: ::1 - - [04/Jul/2025:04:17:31 +0000] "OPTIONS /users HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:31.020Z INFO: ::1 - - [04/Jul/2025:04:17:31 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:31.030Z INFO: ::1 - - [04/Jul/2025:04:17:31 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:32.409Z INFO: ::1 - - [04/Jul/2025:04:17:32 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:32.411Z INFO: ::1 - - [04/Jul/2025:04:17:32 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:32.416Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:17:32.417Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:17:32.418Z INFO: ::1 - - [04/Jul/2025:04:17:32 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:17:32.426Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:17:32.426Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:17:32.427Z INFO: ::1 - - [04/Jul/2025:04:17:32 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:18:10.979Z INFO: ::1 - - [04/Jul/2025:04:18:10 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:18:10.983Z INFO: ::1 - - [04/Jul/2025:04:18:10 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:18:11.093Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:18:11.093Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:18:11.095Z INFO: ::1 - - [04/Jul/2025:04:18:11 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:18:11.106Z ERROR: ReferenceError: User is not defined
+    at D:\Kuliah\PVG\backend\routes\roomRoutes.js:151:18
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at next (D:\Kuliah\PVG\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (D:\Kuliah\PVG\node_modules\router\lib\route.js:117:3)
+    at handle (D:\Kuliah\PVG\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (D:\Kuliah\PVG\node_modules\router\lib\layer.js:152:17)
+    at D:\Kuliah\PVG\node_modules\router\index.js:295:15
+    at processParams (D:\Kuliah\PVG\node_modules\router\index.js:582:12)
+    at next (D:\Kuliah\PVG\node_modules\router\index.js:291:5)
+    at Function.handle (D:\Kuliah\PVG\node_modules\router\index.js:186:3)
+2025-07-04T04:18:11.106Z ERROR: Error on GET /rooms/reservations: User is not defined
+2025-07-04T04:18:11.107Z INFO: ::1 - - [04/Jul/2025:04:18:11 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:19:37.182Z INFO: ::1 - - [04/Jul/2025:04:19:37 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:19:37.192Z INFO: ::1 - - [04/Jul/2025:04:19:37 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:19:37.343Z INFO: ::1 - - [04/Jul/2025:04:19:37 +0000] "GET /rooms/reservations HTTP/1.1" 200 6524 "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:19:37.361Z INFO: ::1 - - [04/Jul/2025:04:19:37 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36"
+2025-07-04T04:22:20.211Z INFO: ::1 - - [04/Jul/2025:04:22:20 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:20.216Z INFO: ::1 - - [04/Jul/2025:04:22:20 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:20.262Z INFO: ::1 - - [04/Jul/2025:04:22:20 +0000] "GET /rooms/reservations HTTP/1.1" 200 6524 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:20.282Z INFO: ::1 - - [04/Jul/2025:04:22:20 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:38.059Z INFO: ::1 - - [04/Jul/2025:04:22:38 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:38.063Z INFO: ::1 - - [04/Jul/2025:04:22:38 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:38.099Z ERROR: Error
+    at Query.run (D:\Kuliah\PVG\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\Kuliah\PVG\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\Kuliah\PVG\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async Reservation.findAll (D:\Kuliah\PVG\node_modules\sequelize\lib\model.js:1140:21)
+    at async D:\Kuliah\PVG\backend\routes\roomRoutes.js:147:26
+2025-07-04T04:22:38.101Z ERROR: Error on GET /rooms/reservations: column Reservation.tanggal"DES does not exist
+2025-07-04T04:22:38.104Z INFO: ::1 - - [04/Jul/2025:04:22:38 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:22:38.116Z ERROR: Error
+    at Query.run (D:\Kuliah\PVG\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\Kuliah\PVG\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async PostgresQueryInterface.select (D:\Kuliah\PVG\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async Reservation.findAll (D:\Kuliah\PVG\node_modules\sequelize\lib\model.js:1140:21)
+    at async D:\Kuliah\PVG\backend\routes\roomRoutes.js:147:26
+2025-07-04T04:22:38.117Z ERROR: Error on GET /rooms/reservations: column Reservation.tanggal"DES does not exist
+2025-07-04T04:22:38.118Z INFO: ::1 - - [04/Jul/2025:04:22:38 +0000] "GET /rooms/reservations HTTP/1.1" 500 52 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:27.315Z INFO: ::1 - - [04/Jul/2025:04:23:27 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:27.322Z INFO: ::1 - - [04/Jul/2025:04:23:27 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:27.378Z INFO: ::1 - - [04/Jul/2025:04:23:27 +0000] "GET /rooms/reservations HTTP/1.1" 200 6524 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:27.398Z INFO: ::1 - - [04/Jul/2025:04:23:27 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:44.550Z INFO: ::1 - - [04/Jul/2025:04:23:44 +0000] "OPTIONS /rooms/reservations/15 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:44.755Z INFO: ::1 - - [04/Jul/2025:04:23:44 +0000] "PUT /rooms/reservations/15 HTTP/1.1" 400 702 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:54.567Z INFO: ::1 - - [04/Jul/2025:04:23:54 +0000] "OPTIONS /rooms/reservations/17 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:23:54.579Z INFO: ::1 - - [04/Jul/2025:04:23:54 +0000] "PUT /rooms/reservations/17 HTTP/1.1" 400 702 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:44.575Z INFO: ::1 - - [04/Jul/2025:04:28:44 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:44.579Z INFO: ::1 - - [04/Jul/2025:04:28:44 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:44.621Z INFO: ::1 - - [04/Jul/2025:04:28:44 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:44.638Z INFO: ::1 - - [04/Jul/2025:04:28:44 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:48.002Z INFO: ::1 - - [04/Jul/2025:04:28:48 +0000] "OPTIONS /rooms/reservations/17 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:48.014Z INFO: ::1 - - [04/Jul/2025:04:28:48 +0000] "GET /rooms/reservations/17 HTTP/1.1" 200 238 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:48.019Z INFO: ::1 - - [04/Jul/2025:04:28:48 +0000] "OPTIONS /rooms/reservations/17 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:48.063Z INFO: ::1 - - [04/Jul/2025:04:28:48 +0000] "PUT /rooms/reservations/17 HTTP/1.1" 200 229 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:28:48.081Z INFO: ::1 - - [04/Jul/2025:04:28:48 +0000] "GET /rooms/reservations HTTP/1.1" 200 6515 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:33.939Z INFO: ::1 - - [04/Jul/2025:04:29:33 +0000] "OPTIONS /rooms/reservations/21 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:34.027Z INFO: ::1 - - [04/Jul/2025:04:29:34 +0000] "GET /rooms/reservations/21 HTTP/1.1" 200 239 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:34.031Z INFO: ::1 - - [04/Jul/2025:04:29:34 +0000] "OPTIONS /rooms/reservations/21 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:34.047Z INFO: ::1 - - [04/Jul/2025:04:29:34 +0000] "PUT /rooms/reservations/21 HTTP/1.1" 200 230 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:34.052Z INFO: ::1 - - [04/Jul/2025:04:29:34 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:34.068Z INFO: ::1 - - [04/Jul/2025:04:29:34 +0000] "GET /rooms/reservations HTTP/1.1" 200 6506 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.136Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "OPTIONS /rooms/reservations/21 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.325Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "GET /rooms/reservations/21 HTTP/1.1" 200 230 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.330Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "OPTIONS /rooms/reservations/21 HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.342Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "PUT /rooms/reservations/21 HTTP/1.1" 200 233 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.346Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:48.359Z INFO: ::1 - - [04/Jul/2025:04:29:48 +0000] "GET /rooms/reservations HTTP/1.1" 200 6509 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:50.620Z INFO: ::1 - - [04/Jul/2025:04:29:50 +0000] "GET /rooms/reservations/21 HTTP/1.1" 200 233 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:50.632Z INFO: ::1 - - [04/Jul/2025:04:29:50 +0000] "PUT /rooms/reservations/21 HTTP/1.1" 200 233 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:29:50.646Z INFO: ::1 - - [04/Jul/2025:04:29:50 +0000] "GET /rooms/reservations HTTP/1.1" 200 6509 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:30:01.693Z INFO: ::1 - - [04/Jul/2025:04:30:01 +0000] "OPTIONS /auth/login HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:30:01.883Z INFO: ::1 - - [04/Jul/2025:04:30:01 +0000] "POST /auth/login HTTP/1.1" 200 376 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:30:03.959Z INFO: ::1 - - [04/Jul/2025:04:30:03 +0000] "OPTIONS /rooms/reservations HTTP/1.1" 204 0 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:30:03.973Z INFO: ::1 - - [04/Jul/2025:04:30:03 +0000] "GET /rooms/reservations HTTP/1.1" 200 2643 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04T04:30:03.985Z INFO: ::1 - - [04/Jul/2025:04:30:03 +0000] "GET /rooms/reservations HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
